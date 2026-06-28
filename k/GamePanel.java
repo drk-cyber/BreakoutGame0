@@ -75,6 +75,7 @@ public class GamePanel extends Canvas implements Runnable, KeyListener {
     }
 
 
+
     // 初始化游戏对象
     private void initGame() {
         entities.clear();
